@@ -22,7 +22,7 @@ const LoginPage = () => {
                     </h2>
 
                     <p className="mt-2 text-center">
-                        &#9432; Login feature is being developed
+                        &#9432; Login feature has been upgrade by development
                     </p>
                 </div>
 
@@ -35,7 +35,7 @@ const LoginPage = () => {
                             to="/register"
                             className="font-semibold leading-6 text-primary hover:text-hover"
                         >
-                            Create one
+                            Create new account?
                         </Link>
                     </p>
                 </div>

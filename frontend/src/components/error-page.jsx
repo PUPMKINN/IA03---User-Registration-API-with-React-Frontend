@@ -24,7 +24,7 @@ const ErrorPage = () => {
                     to="/"
                     className="mt-8 animate-text rounded-md bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 px-3.5 py-2 font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary"
                 >
-                    Back to Home
+                    Back to Home?
                 </Link>
             </div>
 
