@@ -18,7 +18,7 @@ export class UserService {
     constructor(@InjectModel("User") private userModel: Model<IUser>) {}
 
     async createUser(createUserDto: CreateUserDto): Promise<IUser> {
-        // Check if the email already exists
+        // Check mail exists
         const existingUser = await this.userModel.findOne({
             email: createUserDto.email,
         });
