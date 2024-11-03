@@ -26,7 +26,7 @@ const HomePage = () => {
 
                     <div className="flex lg:flex-1 lg:justify-end">
                         <a
-                            href="https://github.com/pdqdat/awp-ia03"
+                            href="https://github.com/PUPMKINN/IA03---User-Registration-API-with-React-Frontend"
                             target="_blank"
                             className="font-semibold leading-6 text-gray-900 duration-300 ease-in-out hover:tracking-widest"
                         >
@@ -43,18 +43,18 @@ const HomePage = () => {
                             React Frontend for
                         </h1>
 
-                        <h1 className="h-14 animate-text text-balance bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-5xl font-semibold tracking-tight text-transparent md:h-[5.5rem] md:text-7xl">
+                        <h1 className="h-14 animate-text text-balance bg-gradient-to-r from-teal-500 via-red-500 to-orange-500 bg-clip-text text-5xl font-semibold tracking-tight text-transparent md:h-[5.5rem] md:text-7xl">
                             User Registration API
                         </h1>
 
                         <p className="mt-4 text-pretty text-lg font-medium text-gray-500 md:mt-8 md:text-xl/8">
-                            A simple demo for a NestJS user registration API 
+                            A simple demo for a NestJS user registration API
                         </p>
 
                         <div className="mt-10 flex items-center justify-center gap-x-6">
                             <Link
                                 to="/register"
-                                className="animate-text rounded-md bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 px-3.5 py-2 font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary"
+                                className="animate-text rounded-md bg-gradient-to-r from-teal-500 via-red-500 to-orange-500 px-3.5 py-2 font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary"
                             >
                                 Create an account
                             </Link>
